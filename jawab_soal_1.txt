@@ -1,0 +1,3 @@
+axios adalah library javascript yang digunakan untuk melakukan HTTP request. 
+Ada banyak method dalam library ini yang bisa mempermudah kita untuk melakukan HTTP request seperti get,post,
+put, delete, catch, dsb.
